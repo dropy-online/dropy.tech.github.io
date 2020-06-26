@@ -1,8 +1,8 @@
 {
-  "/dropy-online/dropy.tech.github.io": {
+  "/dropy-online/dropy.tech": {
     "component": "c4f5d8e4"
   },
-  "/dropy-online/dropy.tech.github.io/blog": {
+  "/dropy-online/dropy.tech/blog": {
     "component": "a6aa9e1f",
     "items": [
       {
@@ -15,21 +15,21 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "38bc4ef4"
+    "metadata": "769a348a"
   },
-  "/dropy-online/dropy.tech.github.io/blog/hello-world": {
+  "/dropy-online/dropy.tech/blog/hello-world": {
     "component": "ccc49370",
     "content": "d610846f"
   },
-  "/dropy-online/dropy.tech.github.io/blog/hola": {
+  "/dropy-online/dropy.tech/blog/hola": {
     "component": "ccc49370",
     "content": "bdd709f1"
   },
-  "/dropy-online/dropy.tech.github.io/blog/tags": {
+  "/dropy-online/dropy.tech/blog/tags": {
     "component": "01a85c17",
-    "tags": "eea7c079"
+    "tags": "ed41fae5"
   },
-  "/dropy-online/dropy.tech.github.io/blog/tags/docusaurus": {
+  "/dropy-online/dropy.tech/blog/tags/docusaurus": {
     "component": "6875c492",
     "items": [
       {
@@ -42,18 +42,18 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "0b6ba2e7"
+    "metadata": "82b10a6a"
   },
-  "/dropy-online/dropy.tech.github.io/blog/tags/facebook": {
+  "/dropy-online/dropy.tech/blog/tags/facebook": {
     "component": "6875c492",
     "items": [
       {
         "content": "af172acd"
       }
     ],
-    "metadata": "701e79b0"
+    "metadata": "d67aba1e"
   },
-  "/dropy-online/dropy.tech.github.io/blog/tags/hello": {
+  "/dropy-online/dropy.tech/blog/tags/hello": {
     "component": "6875c492",
     "items": [
       {
@@ -63,38 +63,38 @@
         "content": "3570154c"
       }
     ],
-    "metadata": "1fff58db"
+    "metadata": "e7ecf779"
   },
-  "/dropy-online/dropy.tech.github.io/blog/tags/hola": {
+  "/dropy-online/dropy.tech/blog/tags/hola": {
     "component": "6875c492",
     "items": [
       {
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "e81d47ca"
+    "metadata": "ae529b0a"
   },
-  "/dropy-online/dropy.tech.github.io/blog/welcome": {
+  "/dropy-online/dropy.tech/blog/welcome": {
     "component": "ccc49370",
     "content": "2868cdab"
   },
-  "/dropy-online/dropy.tech.github.io/docs": {
+  "/dropy-online/dropy.tech/docs": {
     "component": "1be78505",
-    "docsMetadata": "7e9aed5d"
+    "docsMetadata": "3f43d5da"
   },
-  "/dropy-online/dropy.tech.github.io/docs/": {
+  "/dropy-online/dropy.tech/docs/": {
     "component": "17896441",
     "content": "b2f90839"
   },
-  "/dropy-online/dropy.tech.github.io/docs/doc2": {
+  "/dropy-online/dropy.tech/docs/doc2": {
     "component": "17896441",
     "content": "df361e2b"
   },
-  "/dropy-online/dropy.tech.github.io/docs/doc3": {
+  "/dropy-online/dropy.tech/docs/doc3": {
     "component": "17896441",
     "content": "616665f6"
   },
-  "/dropy-online/dropy.tech.github.io/docs/mdx": {
+  "/dropy-online/dropy.tech/docs/mdx": {
     "component": "17896441",
     "content": "ce3e42ad"
   }
