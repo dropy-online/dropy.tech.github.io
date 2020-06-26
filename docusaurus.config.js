@@ -1,11 +1,11 @@
 module.exports = {
   title: 'dropy tech',
   tagline: 'The tagline of my site',
-  url: 'http://dropy.tech.github.io/',
+  url: 'http://dropy-online.github.io/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'dropy-online', // Usually your GitHub org/user name.
-  projectName: 'dropy.tech.github.io', // Usually your repo name.
+  projectName: 'https://github.com/dropy-online/dropy.tech.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'dropy',

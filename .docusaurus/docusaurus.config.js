@@ -80,11 +80,11 @@ export default {
   },
   "title": "dropy tech",
   "tagline": "The tagline of my site",
-  "url": "http://dropy.tech.github.io/",
+  "url": "http://dropy-online.github.io/",
   "baseUrl": "/",
   "favicon": "img/favicon.ico",
   "organizationName": "dropy-online",
-  "projectName": "dropy.tech.github.io",
+  "projectName": "https://github.com/dropy-online/dropy.tech.github.io",
   "presets": [
     [
       "@docusaurus/preset-classic",
