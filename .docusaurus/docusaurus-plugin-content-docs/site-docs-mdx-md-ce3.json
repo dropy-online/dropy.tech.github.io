@@ -4,11 +4,11 @@
   "title": "Powered by MDX",
   "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
   "source": "@site/docs/mdx.md",
-  "permalink": "/docs/mdx",
+  "permalink": "/dropy-online/dropy.tech.github.io/docs/mdx",
   "editUrl": "https://github.com/dropy-online/dropy.tech.github.io/docs/mdx.md",
   "sidebar": "someSidebar",
   "previous": {
     "title": "This is Document Number 3",
-    "permalink": "/docs/doc3"
+    "permalink": "/dropy-online/dropy.tech.github.io/docs/doc3"
   }
 }

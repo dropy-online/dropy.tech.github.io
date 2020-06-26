@@ -5,91 +5,91 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   
 {
-  path: '/',
-  component: ComponentCreator('/'),
+  path: '/dropy-online/dropy.tech.github.io',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io'),
   exact: true,
   
 },
 {
-  path: '/blog',
-  component: ComponentCreator('/blog'),
+  path: '/dropy-online/dropy.tech.github.io/blog',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog'),
   exact: true,
   
 },
 {
-  path: '/blog/hello-world',
-  component: ComponentCreator('/blog/hello-world'),
+  path: '/dropy-online/dropy.tech.github.io/blog/hello-world',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog/hello-world'),
   exact: true,
   
 },
 {
-  path: '/blog/hola',
-  component: ComponentCreator('/blog/hola'),
+  path: '/dropy-online/dropy.tech.github.io/blog/hola',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog/hola'),
   exact: true,
   
 },
 {
-  path: '/blog/tags',
-  component: ComponentCreator('/blog/tags'),
+  path: '/dropy-online/dropy.tech.github.io/blog/tags',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog/tags'),
   exact: true,
   
 },
 {
-  path: '/blog/tags/docusaurus',
-  component: ComponentCreator('/blog/tags/docusaurus'),
+  path: '/dropy-online/dropy.tech.github.io/blog/tags/docusaurus',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog/tags/docusaurus'),
   exact: true,
   
 },
 {
-  path: '/blog/tags/facebook',
-  component: ComponentCreator('/blog/tags/facebook'),
+  path: '/dropy-online/dropy.tech.github.io/blog/tags/facebook',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog/tags/facebook'),
   exact: true,
   
 },
 {
-  path: '/blog/tags/hello',
-  component: ComponentCreator('/blog/tags/hello'),
+  path: '/dropy-online/dropy.tech.github.io/blog/tags/hello',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog/tags/hello'),
   exact: true,
   
 },
 {
-  path: '/blog/tags/hola',
-  component: ComponentCreator('/blog/tags/hola'),
+  path: '/dropy-online/dropy.tech.github.io/blog/tags/hola',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog/tags/hola'),
   exact: true,
   
 },
 {
-  path: '/blog/welcome',
-  component: ComponentCreator('/blog/welcome'),
+  path: '/dropy-online/dropy.tech.github.io/blog/welcome',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/blog/welcome'),
   exact: true,
   
 },
 {
-  path: '/docs',
-  component: ComponentCreator('/docs'),
+  path: '/dropy-online/dropy.tech.github.io/docs',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/docs'),
   
   routes: [
 {
-  path: '/docs/',
-  component: ComponentCreator('/docs/'),
+  path: '/dropy-online/dropy.tech.github.io/docs/',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/docs/'),
   exact: true,
   
 },
 {
-  path: '/docs/doc2',
-  component: ComponentCreator('/docs/doc2'),
+  path: '/dropy-online/dropy.tech.github.io/docs/doc2',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/docs/doc2'),
   exact: true,
   
 },
 {
-  path: '/docs/doc3',
-  component: ComponentCreator('/docs/doc3'),
+  path: '/dropy-online/dropy.tech.github.io/docs/doc3',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/docs/doc3'),
   exact: true,
   
 },
 {
-  path: '/docs/mdx',
-  component: ComponentCreator('/docs/mdx'),
+  path: '/dropy-online/dropy.tech.github.io/docs/mdx',
+  component: ComponentCreator('/dropy-online/dropy.tech.github.io/docs/mdx'),
   exact: true,
   
 }],

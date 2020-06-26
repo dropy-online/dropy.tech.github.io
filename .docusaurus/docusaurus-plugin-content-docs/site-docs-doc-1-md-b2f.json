@@ -4,12 +4,12 @@
   "title": "Style Guide",
   "description": "You can write content using GitHub-flavored Markdown syntax.",
   "source": "@site/docs/doc1.md",
-  "permalink": "/docs/",
+  "permalink": "/dropy-online/dropy.tech.github.io/docs/",
   "editUrl": "https://github.com/dropy-online/dropy.tech.github.io/docs/doc1.md",
   "sidebar_label": "Style Guide",
   "sidebar": "someSidebar",
   "next": {
     "title": "Document Number 2",
-    "permalink": "/docs/doc2"
+    "permalink": "/dropy-online/dropy.tech.github.io/docs/doc2"
   }
 }
