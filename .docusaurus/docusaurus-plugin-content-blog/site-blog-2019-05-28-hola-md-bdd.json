@@ -1,5 +1,5 @@
 {
-  "permalink": "/dropy-online/dropy.tech/blog/hola",
+  "permalink": "/dropy-tech/blog/hola",
   "editUrl": "https://github.com/dropy-online/dropy.tech/blog/2019-05-28-hola.md",
   "source": "@site/blog/2019-05-28-hola.md",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "hola",
-      "permalink": "/dropy-online/dropy.tech/blog/tags/hola"
+      "permalink": "/dropy-tech/blog/tags/hola"
     },
     {
       "label": "docusaurus",
-      "permalink": "/dropy-online/dropy.tech/blog/tags/docusaurus"
+      "permalink": "/dropy-tech/blog/tags/docusaurus"
     }
   ],
   "title": "Hola",
@@ -19,6 +19,6 @@
   "truncated": false,
   "prevItem": {
     "title": "Hello",
-    "permalink": "/dropy-online/dropy.tech/blog/hello-world"
+    "permalink": "/dropy-tech/blog/hello-world"
   }
 }
