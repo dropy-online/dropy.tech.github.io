@@ -81,7 +81,7 @@ export default {
   "title": "dropy tech",
   "tagline": "The tagline of my site",
   "url": "http://dropy-online.github.io/",
-  "baseUrl": "/dropy-online/dropy.tech",
+  "baseUrl": "/dropy-online/dropy.tech/",
   "favicon": "img/favicon.ico",
   "organizationName": "dropy-online",
   "projectName": "dropy.tech",
@@ -92,11 +92,11 @@ export default {
         "docs": {
           "homePageId": "doc1",
           "sidebarPath": "/Users/happytime870naver.com/Desktop/dropy/dropy.tech/sidebars.js",
-          "editUrl": "https://github.com/dropy-online/dropy.tech.github.io/"
+          "editUrl": "https://github.com/dropy-online/dropy.tech/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/dropy-online/dropy.tech.github.io/"
+          "editUrl": "https://github.com/dropy-online/dropy.tech/"
         },
         "theme": {
           "customCss": "/Users/happytime870naver.com/Desktop/dropy/dropy.tech/src/css/custom.css"

@@ -5,7 +5,7 @@
   "description": "You can write content using GitHub-flavored Markdown syntax.",
   "source": "@site/docs/doc1.md",
   "permalink": "/dropy-online/dropy.tech/docs/",
-  "editUrl": "https://github.com/dropy-online/dropy.tech.github.io/docs/doc1.md",
+  "editUrl": "https://github.com/dropy-online/dropy.tech/docs/doc1.md",
   "sidebar_label": "Style Guide",
   "sidebar": "someSidebar",
   "next": {

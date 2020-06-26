@@ -5,8 +5,8 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   
 {
-  path: '/dropy-online/dropy.tech',
-  component: ComponentCreator('/dropy-online/dropy.tech'),
+  path: '/dropy-online/dropy.tech/',
+  component: ComponentCreator('/dropy-online/dropy.tech/'),
   exact: true,
   
 },

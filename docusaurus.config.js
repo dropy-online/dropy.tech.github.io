@@ -2,7 +2,7 @@ module.exports = {
   title: 'dropy tech',
   tagline: 'The tagline of my site',
   url: 'http://dropy-online.github.io/',
-  baseUrl: '/dropy-online/dropy.tech',
+  baseUrl: '/dropy-online/dropy.tech/',
   favicon: 'img/favicon.ico',
   organizationName: 'dropy-online', // Usually your GitHub org/user name.
   projectName: 'dropy.tech', // Usually your repo name.
@@ -88,13 +88,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/dropy-online/dropy.tech.github.io/',
+            'https://github.com/dropy-online/dropy.tech/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/dropy-online/dropy.tech.github.io/',
+            'https://github.com/dropy-online/dropy.tech/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
