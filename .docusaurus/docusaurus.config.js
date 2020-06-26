@@ -81,7 +81,7 @@ export default {
   "title": "dropy tech",
   "tagline": "The tagline of my site",
   "url": "http://dropy-online.github.io/",
-  "baseUrl": "/dropy-tech/",
+  "baseUrl": "/dropy.tech/",
   "favicon": "img/favicon.ico",
   "organizationName": "dropy-online",
   "projectName": "dropy.tech",

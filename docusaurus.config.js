@@ -2,7 +2,7 @@ module.exports = {
   title: 'dropy tech',
   tagline: 'The tagline of my site',
   url: 'http://dropy-online.github.io/',
-  baseUrl: '/dropy-tech/',
+  baseUrl: '/dropy.tech/',
   favicon: 'img/favicon.ico',
   organizationName: 'dropy-online', // Usually your GitHub org/user name.
   projectName: 'dropy.tech', // Usually your repo name.

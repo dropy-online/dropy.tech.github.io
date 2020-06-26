@@ -1,8 +1,8 @@
 {
-  "/dropy-tech/": {
+  "/dropy.tech/": {
     "component": "c4f5d8e4"
   },
-  "/dropy-tech/blog": {
+  "/dropy.tech/blog": {
     "component": "a6aa9e1f",
     "items": [
       {
@@ -15,21 +15,21 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "ad15ff05"
+    "metadata": "8c466452"
   },
-  "/dropy-tech/blog/hello-world": {
+  "/dropy.tech/blog/hello-world": {
     "component": "ccc49370",
     "content": "d610846f"
   },
-  "/dropy-tech/blog/hola": {
+  "/dropy.tech/blog/hola": {
     "component": "ccc49370",
     "content": "bdd709f1"
   },
-  "/dropy-tech/blog/tags": {
+  "/dropy.tech/blog/tags": {
     "component": "01a85c17",
-    "tags": "c424ce9e"
+    "tags": "9c0644cc"
   },
-  "/dropy-tech/blog/tags/docusaurus": {
+  "/dropy.tech/blog/tags/docusaurus": {
     "component": "6875c492",
     "items": [
       {
@@ -42,18 +42,18 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "ffbd1863"
+    "metadata": "983c2b05"
   },
-  "/dropy-tech/blog/tags/facebook": {
+  "/dropy.tech/blog/tags/facebook": {
     "component": "6875c492",
     "items": [
       {
         "content": "af172acd"
       }
     ],
-    "metadata": "fa05c127"
+    "metadata": "073b505f"
   },
-  "/dropy-tech/blog/tags/hello": {
+  "/dropy.tech/blog/tags/hello": {
     "component": "6875c492",
     "items": [
       {
@@ -63,38 +63,38 @@
         "content": "3570154c"
       }
     ],
-    "metadata": "b96f764b"
+    "metadata": "ad21bb91"
   },
-  "/dropy-tech/blog/tags/hola": {
+  "/dropy.tech/blog/tags/hola": {
     "component": "6875c492",
     "items": [
       {
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "366a9e5a"
+    "metadata": "0d3f9b50"
   },
-  "/dropy-tech/blog/welcome": {
+  "/dropy.tech/blog/welcome": {
     "component": "ccc49370",
     "content": "2868cdab"
   },
-  "/dropy-tech/docs": {
+  "/dropy.tech/docs": {
     "component": "1be78505",
-    "docsMetadata": "33b67b42"
+    "docsMetadata": "5760db74"
   },
-  "/dropy-tech/docs/": {
+  "/dropy.tech/docs/": {
     "component": "17896441",
     "content": "b2f90839"
   },
-  "/dropy-tech/docs/doc2": {
+  "/dropy.tech/docs/doc2": {
     "component": "17896441",
     "content": "df361e2b"
   },
-  "/dropy-tech/docs/doc3": {
+  "/dropy.tech/docs/doc3": {
     "component": "17896441",
     "content": "616665f6"
   },
-  "/dropy-tech/docs/mdx": {
+  "/dropy.tech/docs/mdx": {
     "component": "17896441",
     "content": "ce3e42ad"
   }

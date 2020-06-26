@@ -1,5 +1,5 @@
 {
-  "permalink": "/dropy-tech/blog/hello-world",
+  "permalink": "/dropy.tech/blog/hello-world",
   "editUrl": "https://github.com/dropy-online/dropy.tech/blog/2019-05-29-hello-world.md",
   "source": "@site/blog/2019-05-29-hello-world.md",
   "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "hello",
-      "permalink": "/dropy-tech/blog/tags/hello"
+      "permalink": "/dropy.tech/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/dropy-tech/blog/tags/docusaurus"
+      "permalink": "/dropy.tech/blog/tags/docusaurus"
     }
   ],
   "title": "Hello",
@@ -19,10 +19,10 @@
   "truncated": true,
   "prevItem": {
     "title": "Welcome",
-    "permalink": "/dropy-tech/blog/welcome"
+    "permalink": "/dropy.tech/blog/welcome"
   },
   "nextItem": {
     "title": "Hola",
-    "permalink": "/dropy-tech/blog/hola"
+    "permalink": "/dropy.tech/blog/hola"
   }
 }

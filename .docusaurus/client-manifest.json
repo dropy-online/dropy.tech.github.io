@@ -8,10 +8,10 @@
       1,
       3,
       4,
-      11,
-      13,
-      20,
-      21,
+      12,
+      17,
+      22,
+      23,
       29,
       30,
       2
@@ -20,9 +20,9 @@
       0,
       1,
       2,
-      11,
-      13,
-      21,
+      12,
+      17,
+      23,
       3
     ],
     "common": [
@@ -30,21 +30,21 @@
       2,
       3,
       4,
-      5,
-      6,
+      7,
       8,
-      10,
+      9,
       11,
       12,
-      13,
-      15,
-      16,
-      18,
+      14,
+      17,
+      19,
       20,
       21,
       22,
       23,
       24,
+      25,
+      26,
       29,
       30,
       0
@@ -54,11 +54,11 @@
       2,
       3,
       4,
-      5,
-      11,
-      13,
-      20,
-      21,
+      7,
+      12,
+      17,
+      22,
+      23,
       27,
       28,
       29,
@@ -71,97 +71,97 @@
       2,
       4
     ],
+    "~blog/dropy-tech-blog-tags-facebook-bf1.json": [
+      5
+    ],
+    "~blog/dropy-tech-blog-tags-hola-9fb.json": [
+      6
+    ],
     "@theme/DocItem": [
       0,
       1,
-      5
+      7
     ],
     "@site/blog/2019-05-30-welcome.md": [
       0,
-      6
-    ],
-    "~docs/dropy-tech-docs-route-e06.json": [
-      7
+      8
     ],
     "@site/blog/2019-05-29-hello-world.md?truncated=true": [
       0,
-      8
-    ],
-    "~blog/dropy-tech-blog-tags-hola-651.json": [
       9
+    ],
+    "~docs/dropy-tech-docs-route-8df.json": [
+      10
     ],
     "@site/docs/doc3.md": [
       0,
-      10
+      11
     ],
     "@theme/BlogTagsPostsPage": [
       0,
       1,
       2,
       3,
-      11
+      12
+    ],
+    "~blog/dropy-tech-blog-98a.json": [
+      13
     ],
     "@site/blog/2019-05-28-hola.md?truncated=true": [
       0,
-      12
+      14
+    ],
+    "~blog/dropy-tech-blog-tags-docusaurus-d44.json": [
+      15
+    ],
+    "~blog/dropy-tech-blog-tags-tags-4d0.json": [
+      16
     ],
     "@theme/BlogListPage": [
       0,
       1,
       2,
       3,
-      13
+      17
     ],
-    "~blog/dropy-tech-blog-918.json": [
-      14
+    "~blog/dropy-tech-blog-tags-hello-0a4.json": [
+      18
     ],
     "@site/blog/2019-05-30-welcome.md?truncated=true": [
       0,
-      15
+      19
     ],
     "@site/docs/doc1.md": [
       0,
-      16
-    ],
-    "~blog/dropy-tech-blog-tags-hello-431.json": [
-      17
+      20
     ],
     "@site/blog/2019-05-28-hola.md": [
       0,
-      18
-    ],
-    "~blog/dropy-tech-blog-tags-tags-11b.json": [
-      19
+      21
     ],
     "@site/src/pages/index.js": [
       0,
       1,
       2,
-      20
+      22
     ],
     "@theme/BlogPostPage": [
       0,
       1,
       2,
       3,
-      21
+      23
     ],
     "@site/docs/mdx.md": [
       0,
-      22
+      24
     ],
     "@site/blog/2019-05-29-hello-world.md": [
       0,
-      23
+      25
     ],
     "@site/docs/doc2.md": [
       0,
-      24
-    ],
-    "~blog/dropy-tech-blog-tags-facebook-ce2.json": [
-      25
-    ],
-    "~blog/dropy-tech-blog-tags-docusaurus-350.json": [
       26
     ],
     "main": [
@@ -193,7 +193,7 @@
         {
           "file": "common.f4db563e.js",
           "hash": "ed97c5bbb61fc4cf9bb9",
-          "publicPath": "/dropy-tech/common.f4db563e.js"
+          "publicPath": "/dropy.tech/common.f4db563e.js"
         }
       ]
     },
@@ -201,15 +201,15 @@
       "css": [
         {
           "file": "styles.14832f1c.css",
-          "hash": "2f597a786db6e1959f76",
-          "publicPath": "/dropy-tech/styles.14832f1c.css"
+          "hash": "e3b444804f041cd118a4",
+          "publicPath": "/dropy.tech/styles.14832f1c.css"
         }
       ],
       "js": [
         {
-          "file": "styles.2aa9da83.js",
-          "hash": "2f597a786db6e1959f76",
-          "publicPath": "/dropy-tech/styles.2aa9da83.js"
+          "file": "styles.0e2a1c79.js",
+          "hash": "e3b444804f041cd118a4",
+          "publicPath": "/dropy.tech/styles.0e2a1c79.js"
         }
       ]
     },
@@ -218,16 +218,16 @@
         {
           "file": "2.6626c83c.js",
           "hash": "a7ef19cd9f3b75df7394",
-          "publicPath": "/dropy-tech/2.6626c83c.js"
+          "publicPath": "/dropy.tech/2.6626c83c.js"
         }
       ]
     },
     "3": {
       "js": [
         {
-          "file": "3.a7beeae4.js",
-          "hash": "9895392e3e90dde1b746",
-          "publicPath": "/dropy-tech/3.a7beeae4.js"
+          "file": "3.daa61997.js",
+          "hash": "f0d619ec6e6303cf01b7",
+          "publicPath": "/dropy.tech/3.daa61997.js"
         }
       ]
     },
@@ -236,237 +236,237 @@
         {
           "file": "01a85c17.a1e56322.js",
           "hash": "9bf52770b8591f4da993",
-          "publicPath": "/dropy-tech/01a85c17.a1e56322.js"
+          "publicPath": "/dropy.tech/01a85c17.a1e56322.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "17896441.ad33a383.js",
-          "hash": "56d9b2e3de33edfc59b2",
-          "publicPath": "/dropy-tech/17896441.ad33a383.js"
+          "file": "073b505f.2641181c.js",
+          "hash": "13a8e56ef8e18f9203de",
+          "publicPath": "/dropy.tech/073b505f.2641181c.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "2868cdab.ec1e5978.js",
-          "hash": "a3317a259f16a9dac7fc",
-          "publicPath": "/dropy-tech/2868cdab.ec1e5978.js"
+          "file": "0d3f9b50.3d2557d5.js",
+          "hash": "821bb967045412fb48b3",
+          "publicPath": "/dropy.tech/0d3f9b50.3d2557d5.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "33b67b42.92b744cf.js",
-          "hash": "c036c8d8b16f6fbdea86",
-          "publicPath": "/dropy-tech/33b67b42.92b744cf.js"
+          "file": "17896441.c8753ec0.js",
+          "hash": "09d427fbf7fe0482b546",
+          "publicPath": "/dropy.tech/17896441.c8753ec0.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "3570154c.af90c638.js",
-          "hash": "05c101bb68f035dec768",
-          "publicPath": "/dropy-tech/3570154c.af90c638.js"
+          "file": "2868cdab.b566c7d7.js",
+          "hash": "3771258e3016971389d2",
+          "publicPath": "/dropy.tech/2868cdab.b566c7d7.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "366a9e5a.919d49aa.js",
-          "hash": "3e65d4bfbf1e27ba2d12",
-          "publicPath": "/dropy-tech/366a9e5a.919d49aa.js"
+          "file": "3570154c.2713e757.js",
+          "hash": "c7a96194e69e2974829c",
+          "publicPath": "/dropy.tech/3570154c.2713e757.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "616665f6.7da7bd9d.js",
-          "hash": "845d437330cdfe960726",
-          "publicPath": "/dropy-tech/616665f6.7da7bd9d.js"
+          "file": "5760db74.e0352bd7.js",
+          "hash": "b0768fa36f8bafb14c26",
+          "publicPath": "/dropy.tech/5760db74.e0352bd7.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "6875c492.c1fbafc2.js",
-          "hash": "9df798c49111ea09088b",
-          "publicPath": "/dropy-tech/6875c492.c1fbafc2.js"
+          "file": "616665f6.d125e2d6.js",
+          "hash": "d0b74b5146174c879aed",
+          "publicPath": "/dropy.tech/616665f6.d125e2d6.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "8e9f0a8a.1289659b.js",
-          "hash": "5cf059109090a0f7d628",
-          "publicPath": "/dropy-tech/8e9f0a8a.1289659b.js"
+          "file": "6875c492.aa20c95b.js",
+          "hash": "3484e59ea2a6284f4aa1",
+          "publicPath": "/dropy.tech/6875c492.aa20c95b.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "a6aa9e1f.a80bf58f.js",
-          "hash": "6098bb8dbd66f117c5bf",
-          "publicPath": "/dropy-tech/a6aa9e1f.a80bf58f.js"
+          "file": "8c466452.7056dba7.js",
+          "hash": "d2bf993a6ae973442676",
+          "publicPath": "/dropy.tech/8c466452.7056dba7.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "ad15ff05.a1b99125.js",
-          "hash": "573c0edf3f216283d72e",
-          "publicPath": "/dropy-tech/ad15ff05.a1b99125.js"
+          "file": "8e9f0a8a.97b1ab6c.js",
+          "hash": "e05dbeb1fc9ab34b25f6",
+          "publicPath": "/dropy.tech/8e9f0a8a.97b1ab6c.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "af172acd.72316996.js",
-          "hash": "7e543cad60942e4e3b8b",
-          "publicPath": "/dropy-tech/af172acd.72316996.js"
+          "file": "983c2b05.c2ad660a.js",
+          "hash": "4a4813cab9194358d44d",
+          "publicPath": "/dropy.tech/983c2b05.c2ad660a.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "b2f90839.c297996c.js",
-          "hash": "f49363ba34e7adbb16e3",
-          "publicPath": "/dropy-tech/b2f90839.c297996c.js"
+          "file": "9c0644cc.0adb6572.js",
+          "hash": "d2bfbc76c2aca8d03521",
+          "publicPath": "/dropy.tech/9c0644cc.0adb6572.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "b96f764b.025b1f4f.js",
-          "hash": "e8e2e1c75a25065b7748",
-          "publicPath": "/dropy-tech/b96f764b.025b1f4f.js"
+          "file": "a6aa9e1f.f842cb7e.js",
+          "hash": "ab2f0a2c77936539f7f1",
+          "publicPath": "/dropy.tech/a6aa9e1f.f842cb7e.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "bdd709f1.cee397ec.js",
-          "hash": "8c3bda79919357df11cf",
-          "publicPath": "/dropy-tech/bdd709f1.cee397ec.js"
+          "file": "ad21bb91.0671db81.js",
+          "hash": "60cec394ef2cbb8c839a",
+          "publicPath": "/dropy.tech/ad21bb91.0671db81.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "c424ce9e.34681a34.js",
-          "hash": "15ac938a346647afa92a",
-          "publicPath": "/dropy-tech/c424ce9e.34681a34.js"
+          "file": "af172acd.a20f097b.js",
+          "hash": "9b1b6da6c77b0065649e",
+          "publicPath": "/dropy.tech/af172acd.a20f097b.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "c4f5d8e4.3019985c.js",
-          "hash": "1f208436fccbfdae6ce0",
-          "publicPath": "/dropy-tech/c4f5d8e4.3019985c.js"
+          "file": "b2f90839.409a06a8.js",
+          "hash": "510a180cc993a8f32d20",
+          "publicPath": "/dropy.tech/b2f90839.409a06a8.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "ccc49370.adde6743.js",
-          "hash": "1dd698615cc770b76b92",
-          "publicPath": "/dropy-tech/ccc49370.adde6743.js"
+          "file": "bdd709f1.8ad47510.js",
+          "hash": "a9cf8d0a60a87643d496",
+          "publicPath": "/dropy.tech/bdd709f1.8ad47510.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "ce3e42ad.855d7627.js",
-          "hash": "783febe72ba2bdd062ac",
-          "publicPath": "/dropy-tech/ce3e42ad.855d7627.js"
+          "file": "c4f5d8e4.77887af2.js",
+          "hash": "09aa3ecf2abf20f208d0",
+          "publicPath": "/dropy.tech/c4f5d8e4.77887af2.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "d610846f.51cc8572.js",
-          "hash": "0378897507c25466be21",
-          "publicPath": "/dropy-tech/d610846f.51cc8572.js"
+          "file": "ccc49370.c874ebc5.js",
+          "hash": "d9c71b5d4e8862541fca",
+          "publicPath": "/dropy.tech/ccc49370.c874ebc5.js"
         }
       ]
     },
     "24": {
       "js": [
         {
-          "file": "df361e2b.5aefc82d.js",
-          "hash": "c6de15dfa4c1ac23e28a",
-          "publicPath": "/dropy-tech/df361e2b.5aefc82d.js"
+          "file": "ce3e42ad.d3f5ab15.js",
+          "hash": "a44efe1768047809f5c0",
+          "publicPath": "/dropy.tech/ce3e42ad.d3f5ab15.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "fa05c127.0d0e0910.js",
-          "hash": "10d0b38a3b9cf6e4010e",
-          "publicPath": "/dropy-tech/fa05c127.0d0e0910.js"
+          "file": "d610846f.afc23546.js",
+          "hash": "f4844bee9f1953814961",
+          "publicPath": "/dropy.tech/d610846f.afc23546.js"
         }
       ]
     },
     "26": {
       "js": [
         {
-          "file": "ffbd1863.dc80a9c9.js",
-          "hash": "65464840fcc073f71397",
-          "publicPath": "/dropy-tech/ffbd1863.dc80a9c9.js"
+          "file": "df361e2b.1089bbc1.js",
+          "hash": "0995b2d424859ed28a91",
+          "publicPath": "/dropy.tech/df361e2b.1089bbc1.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "main.9651b500.js",
-          "hash": "91c29dda3908113a709d",
-          "publicPath": "/dropy-tech/main.9651b500.js"
+          "file": "main.470135ee.js",
+          "hash": "f43fdf5b204e7751a0be",
+          "publicPath": "/dropy.tech/main.470135ee.js"
         }
       ]
     },
     "28": {
       "js": [
         {
-          "file": "runtime~main.18847823.js",
-          "hash": "acb0db31270e292bfe3a",
-          "publicPath": "/dropy-tech/runtime~main.18847823.js"
+          "file": "runtime~main.1bc38647.js",
+          "hash": "914795c9ac45f49e6fa3",
+          "publicPath": "/dropy.tech/runtime~main.1bc38647.js"
         }
       ]
     },
     "30": {
       "js": [
         {
-          "file": "29.a2b43802.js",
-          "hash": "56e47fbfe0d60a8256c6",
-          "publicPath": "/dropy-tech/29.a2b43802.js"
+          "file": "29.4e0c68bc.js",
+          "hash": "17dd58c355e60d42a886",
+          "publicPath": "/dropy.tech/29.4e0c68bc.js"
         },
         {
           "file": "30.f55cc59f.js",
           "hash": "31ebad69332a6a0c212d",
-          "publicPath": "/dropy-tech/30.f55cc59f.js"
+          "publicPath": "/dropy.tech/30.f55cc59f.js"
         }
       ]
     }

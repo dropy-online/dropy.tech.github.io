@@ -1,5 +1,5 @@
 {
-  "permalink": "/dropy-tech/blog/welcome",
+  "permalink": "/dropy.tech/blog/welcome",
   "editUrl": "https://github.com/dropy-online/dropy.tech/blog/2019-05-30-welcome.md",
   "source": "@site/blog/2019-05-30-welcome.md",
   "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
@@ -7,15 +7,15 @@
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/dropy-tech/blog/tags/facebook"
+      "permalink": "/dropy.tech/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/dropy-tech/blog/tags/hello"
+      "permalink": "/dropy.tech/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/dropy-tech/blog/tags/docusaurus"
+      "permalink": "/dropy.tech/blog/tags/docusaurus"
     }
   ],
   "title": "Welcome",
@@ -23,6 +23,6 @@
   "truncated": false,
   "nextItem": {
     "title": "Hello",
-    "permalink": "/dropy-tech/blog/hello-world"
+    "permalink": "/dropy.tech/blog/hello-world"
   }
 }
